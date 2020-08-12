@@ -2,7 +2,7 @@
 This is the dataset collected and used in the article titled "Modeling the User Experience ofWatching 360° Videos with
 Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Computing, Communications, and Applications.
 ## Videos are from Joint Video Exploration Team (JVET)
-(03) Landing, (05) Balboa, (07) PoleVault, (08) BranCastle, (09) Harbor, (10) SkateboardTrick
+(03) Landing, (07) PoleVault, (08) BranCastle, (10) SkateboardTrick, (05) Balboa, (09) Harbor
 ## Directory Tree
 - dataset
   - data_samples: All data samples with QoE scores and factor values
