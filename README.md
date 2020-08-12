@@ -5,7 +5,8 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
 (03) Landing, (05) Balboa, (07) PoleVault, (08) BranCastle, (09) Harbor, (10) SkateboardTrick
 ## Directory Tree
 - dataset
-  - user01
+  - data_samples: All data samples with QoE scores and factor values
+  - user01: log files of user 01
     - user_profile
     - orienation_log
       - u01_v03_b9.log
@@ -25,7 +26,7 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
 2. uxx_txx_vxx.log:
   frame_no, head_yaw, head_pitch, gaze_yaw, gaze_pitch
 3. rating_log:
-  video_no, overall_QoE, image_quality, fragmentation, immersion, cybersickness, attractive
+  video_no, br, overall_QoE, image_quality, fragmentation, immersion, cybersickness, attractive
 4. MOS Models:
   OQ^M_A: equation
   IQ^M_A: equation
