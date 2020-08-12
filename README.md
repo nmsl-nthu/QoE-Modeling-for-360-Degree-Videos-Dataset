@@ -23,7 +23,7 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
 1. user_profile:
   user_no, gender, age, frequency, education
 2. uxx_txx_vxx.log:
-  frame_no, head_yaw, head_pitch, head_roll, gaze_x, gaze_y, gaze_z
+  frame_no, head_yaw, head_pitch, gaze_yaw, gaze_pitch
 3. rating_log:
   video_no, overall_QoE, image_quality, fragmentation, immersion, cybersickness, attractive
 4. MOS Models:
