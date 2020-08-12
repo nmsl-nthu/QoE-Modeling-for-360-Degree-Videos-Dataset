@@ -5,13 +5,15 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
 (03) Landing, (05) Balboa, (07) PoleVault, (08) BranCastle, (09) Harbor, (10) SkateboardTrick
 ## Directory Tree
 - dataset
-  - userXX
+  - user01
     - user_profile
     - orienation_log
-      - uxx_t01_vxx.log
-      - uxx_t02_vxx.log
-      ...
-      - uxx_t24_vxx.log
+      - u01_t01_v03_b9.log
+      - u01_t02_v09_b3.log
+      .
+      .
+      .
+      - u01_t24_v03_b1.log
     - rating_log
 - models
   - MOS_model
