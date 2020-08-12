@@ -8,12 +8,12 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
   - user01
     - user_profile
     - orienation_log
-      - u01_t01_v03_b9.log
-      - u01_t02_v09_b3.log
+      - u01_v03_b9.log
+      - u01_v09_b3.log
       .
       .
       .
-      - u01_t24_v03_b1.log
+      - u01_v03_b1.log
     - rating_log
 - models
   - MOS_model
