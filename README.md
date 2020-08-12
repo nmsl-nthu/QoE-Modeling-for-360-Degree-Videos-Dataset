@@ -16,6 +16,7 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
 - models
   - MOS_model
   - IS_model
+- scripts
 ### File Content
 1. user_profile:
   user_no, gender, age, frequency, education
