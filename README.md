@@ -17,8 +17,11 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
       - u01_v03_b1.log
     - rating_log
 - models
-  - MOS_model
-  - IS_model
+  - MOS_A_OQ.model
+  - MOS_A_IQ.model
+  ...
+  - IS_A_OQ.model
+  ...
 - scripts
 ### File Content
 1. user_profile:
@@ -27,13 +30,3 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
   frame_no, head_yaw, head_pitch, gaze_yaw, gaze_pitch
 3. rating_log:
   video_no, br, overall_QoE, image_quality, fragmentation, immersion, cybersickness, attractive
-4. MOS Models:
-  OQ^M_A: equation
-  IQ^M_A: equation
-  ...
-  CS^M_F: equation
-5. IS Models:
-  OQ^I_A: equation
-  IQ^I_A: equation
-  ...
-  CS^I_F: equation
