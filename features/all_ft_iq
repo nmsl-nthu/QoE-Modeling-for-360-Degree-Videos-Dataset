@@ -1,0 +1,2 @@
+X: total_br,si,ti,optflow,std_psnr,std_ssim,std_vmaf,avg_gvrot_yaw,avg_gvrot_pitch,avg_fvrot_yaw,avg_fvrot_pitch,si_gvprob,ti_gvprob,optflow_gvprob,psnr_gvprob,ssim_gvprob,vmaf_gvprob,vstd_psnr,vstd_ssim,vstd_vmaf,vmaf,ssim,psnr,subj_gvrot_yaw,subj_gvrot_pitch,subj_fvrot_yaw,subj_fvrot_pitch,gender,sk_fq,sk_level
+Y: mos_qt
