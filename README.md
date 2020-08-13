@@ -3,7 +3,7 @@ This is the dataset collected and used in the article titled "Modeling the User 
 Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Computing, Communications, and Applications.
 ## Videos are from Joint Video Exploration Team (JVET)
 (03) Landing, (07) PoleVault, (08) BranCastle, (10) SkateboardTrick, (05) Balboa, (09) Harbor
-## Directory Tree
+## Folders
 - dataset
   - data_samples: All data samples with QoE scores and factor values
   - user01: log files of user 01
