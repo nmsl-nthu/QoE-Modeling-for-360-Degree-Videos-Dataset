@@ -23,8 +23,8 @@ Head-Mounted Displays", which is submitted to ACM Transactions on Multimedia Com
   - IS_A_OQ.model
   ...
 - features
-  - all_ft_oq: all features -> predicting OQ
-  - all_ft_iq: all features -> predicting IQ
+  - all_ft_oq: all factors -> predicting OQ
+  - all_ft_iq: all factors -> predicting IQ
   ...
 - scripts
 ### File Content
