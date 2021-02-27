@@ -42,7 +42,7 @@ NNNI-1
 I-1
 I0
 tp17
-bS'\xbb\xdb\x06h\x1ceN@'
+bS'r\x8a"\x07\x8b\x04;@'
 p18
 tp19
 Rp20
@@ -65,7 +65,7 @@ Rp27
 tp28
 g15
 I00
-S'\x83\xee\xd0P\xe5\x13\x11@'
+S'N\x93\x16\xc11\xc5\x06@'
 p29
 tp30
 bsS'_sklearn_version'
@@ -79,7 +79,7 @@ sS'intercept_'
 p34
 g11
 (g15
-S'T\x07\x01\x0f<5\xfa?'
+S'\xb8\xa5TK-\x87\xfe\xbf'
 p35
 tp36
 Rp37
